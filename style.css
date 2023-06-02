@@ -1,0 +1,14 @@
+h1, h2 {
+    font-family: "SF Pro Display";
+    font-style: bold;
+}
+
+h3 {
+    font-family: "SF Pro Display";
+    font-style: semibold;
+}
+
+body {
+    font-family: "SF Pro Display";
+    font-style: regular;
+}
